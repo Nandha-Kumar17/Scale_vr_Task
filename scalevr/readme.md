@@ -1,16 +1,3 @@
-# Python-Firebase-Flask login/register web-app
-
-## Features
-1) Login/Sign up - Hosted on firebase
-2) Fully responsive UI - Credits: https://codepen.io/danzawadzki/pen/EgqKRr
-3) Based on Python-Flask
-
-## Requirements
-```bash
-pip install pyrebase4
-pip install flask
-```
-
 ## Setting up firebase
 
 1) Go to https://console.firebase.google.com
